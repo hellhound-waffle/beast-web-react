@@ -1,7 +1,7 @@
 {
   "name": "beast-web-react",
   "version": "0.1.0",
-  "homepage": "https://Lazy-Beast.github.io/Lazy-Beast-web",
+  "homepage": "https://Lazy-Beast.github.io/beast-web-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
