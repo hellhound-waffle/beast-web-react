@@ -17,10 +17,10 @@ function App() {
         <ScrollToTop />
         <NavBar />
           <Routes>
-            <Route path='/' element={<Home />} />
-            <Route path='/project/:id' element={<Project />} />
-            <Route path='/skills' element={<Skills />} />
-            <Route path='/contacts' element={<Contact />} />
+            <Route path='/beast-web-react/' element={<Home />} />
+            <Route path='/beast-web-react/project/:id' element={<Project />} />
+            <Route path='/beast-web-react/skills' element={<Skills />} />
+            <Route path='/beast-web-react/contacts' element={<Contact />} />
           </Routes>
         <Footer />
       </Router>
