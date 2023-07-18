@@ -1,0 +1,23 @@
+.button-outline {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  height: 48px;
+  padding: 12px 20px;
+  font-family: DM Sans;
+  color: var(--button-color) !important;
+  background-color: var(--white);
+  border: 2px solid var(--border-color);
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+.button-outline:hover {
+  transform: scale(102%);
+  box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+.button-outline:active {
+  transform: scale(98%);
+  box-shadow: inset -2px -3px 9px rgba(0, 0, 0, 0.4);
+}
