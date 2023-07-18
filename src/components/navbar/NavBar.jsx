@@ -12,7 +12,7 @@ function NavBar() {
     <nav className="nav">
       <div className="container">
         <div className="nav-row">
-            <NavLink to='/' className="logo">
+            <NavLink to='/beast-web-react/' className="logo">
                 <span>
                   Lazy
                 </span>
@@ -22,17 +22,17 @@ function NavBar() {
           <ButtonDarkMode />
 
           <ul className="nav-list">
-            <NavLink to='/' className={({isActive}) => {
+            <NavLink to='/beast-web-react/' className={({isActive}) => {
               return isActive ? activeLink : regularLink
             }}>
               <li className="nav-list__item">Projects</li>
             </NavLink>
-            <NavLink to='skills' className={({isActive}) => {
+            <NavLink to='/beast-web-react/skills' className={({isActive}) => {
               return isActive ? activeLink : regularLink
             }}>
               <li className="nav-list__item">Skills</li>
             </NavLink>
-            <NavLink to='contacts' className={({isActive}) => {
+            <NavLink to='/beast-web-react/contacts' className={({isActive}) => {
               return isActive ? activeLink : regularLink
             }}>
               <li className="nav-list__item">Contacts</li>
