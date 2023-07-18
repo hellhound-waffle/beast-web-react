@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/beast-web-react/static/css/main.ec0dacfa.css",
-    "main.js": "/beast-web-react/static/js/main.712996bc.js",
+    "main.js": "/beast-web-react/static/js/main.826ebd5a.js",
     "static/js/787.4cf3a0c4.chunk.js": "/beast-web-react/static/js/787.4cf3a0c4.chunk.js",
     "static/media/claw-marks-2.png": "/beast-web-react/static/media/claw-marks-2.628d414a6464727bd133.png",
     "static/media/big-undefined-light.jpg": "/beast-web-react/static/media/big-undefined-light.abf4a678868eb9da15f4.jpg",
@@ -16,11 +16,11 @@
     "static/media/linkedIn.svg": "/beast-web-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/beast-web-react/index.html",
     "main.ec0dacfa.css.map": "/beast-web-react/static/css/main.ec0dacfa.css.map",
-    "main.712996bc.js.map": "/beast-web-react/static/js/main.712996bc.js.map",
+    "main.826ebd5a.js.map": "/beast-web-react/static/js/main.826ebd5a.js.map",
     "787.4cf3a0c4.chunk.js.map": "/beast-web-react/static/js/787.4cf3a0c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec0dacfa.css",
-    "static/js/main.712996bc.js"
+    "static/js/main.826ebd5a.js"
   ]
 }
